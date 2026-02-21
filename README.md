@@ -27,16 +27,25 @@ This repository serves as a **Professional Framework** for Solutions Architects 
 *   **Post-Implementation Review (PIR) Blueprint**: Measuring success against the original business case.
 
 ### [04. FinOps & Zero-Trust Reliability](./04-finops-reliability)
-*   **Architecture TCO Modeling**: How to project 3-year cloud costs (Compute, Data, Egress) during the design phase.
-*   **The Reliability Checklist (Chaos Engineering Ready)**: 50+ NFRs across Resilience, Scalability, and Security.
-*   **Zero-Trust Identity Strategy**: Designing secure industrial gateways in hostile network environments.
+*   **Architecture TCO Modeling**: How to project 3-year cloud costs during the design phase.
+*   **The Reliability Checklist**: 50+ NFRs across Resilience, Scalability, and Security.
+
+### [05. Product Engineering Excellence](./05-product-engineering-excellence)
+*   **Modular Product Architecture**: Designing for extensibility via Micro-Kernels and Plug-ins.
+*   **Technical Debt Management**: A financial-grade framework for sprint velocity and refinement.
+*   **SaaS Multi-Tenancy Patterns**: Architecting for multi-customer isolation at scale.
+
+### [06. Presales Solutions Strategy](./06-presales-solutions-strategy)
+*   **The "Discovery-First" Framework**: Methodologies to move from "Vendor" to "Trusted Advisor."
+*   **Should-Cost Estimation Models**: Structured technical costing to protect delivery margins.
+*   **The Solution Pitch Strategy**: Winning technical trust via the "Problem-Pattern-Proof" framework.
 
 ---
 
 ## 🚀 How to use this ESAF?
-1.  **For Hiring Managers**: Use this to understand my approach to **System Governance** and **Strategic Leadership**.
-2.  **For Lead Engineers**: Use the checklists in Section 04 to validate your system's production readiness.
-3.  **For Stakeholders**: Review Section 01 to see how technical choices are mapped to your Business ROI.
+1.  **For Hiring Managers**: Use this to understand my approach to **Strategic Leadership** and **Product Maturity**.
+2.  **For Presales Leads**: Leverage Section 06 to standardize the "Value Discovery" phase for complex deals.
+3.  **For Engineering Directors**: Use Section 05 to define the balance between "Speed to Market" and "Long-term Debt."
 
 ---
 *Authored by [Gaurav Sharma](https://gauravs19.github.io/portfolio/) — 18+ Years of Architecture Delivery.*
